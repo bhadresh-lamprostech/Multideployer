@@ -1,0 +1,122 @@
+[
+  {
+    "address": "0x5Bd83492cC199A2AaD52C839F4ECEAD464B2ab1B",
+    "privateKey": "0xeb89619dad52460259fb640e36843ed6420245208a96c2c235a88a598c56ae31",
+    "tokenAddress": "0xC68AaA7dFf68bA9B5a0D790C7A9F9Ac3c1742537",
+    "platformAddress": "0xFB46d7ecBfb83dE022102ffce87644e6ea1285AE"
+  },
+  {
+    "address": "0xaEe01B57B095933f4B82604Bd32A8de3Fdc9B5B5",
+    "privateKey": "0x38e01ad46e0ed2aa65f634fb6008f8bbb9d5cafce16c920ac64afb216b6254f1",
+    "tokenAddress": "0xc67eCa6ec5b6fD55a07A71802F5d230DAa2D80a8",
+    "platformAddress": "0xB3115aDe5B9ef28Bc5843A308Fb4417fbdE2dB5a"
+  },
+  {
+    "address": "0x0d79bAc00b99bc032b71193F1126CB2Eb7341514",
+    "privateKey": "0x8b74b98b9217391c3c8095504b29aa4d8dbe00af5cb5810b9cbc7cd48aace1e3",
+    "tokenAddress": "0x1F7fbea529871e7F1d0A87f60C3886566d0EA1b9",
+    "platformAddress": "0xBa0eb738A5195F668D9B50c4d6594122e74A8243"
+  },
+  {
+    "address": "0x5261EA3371c219C75612376603D4D302fD81F974",
+    "privateKey": "0x9f7e7007e8cf8cfff5cbceebaddfb355851b8f2dd7db279a6e0c48453b67cb65",
+    "tokenAddress": "0x9023291cb3f694cBd6aD1B2c71D1d9E36B886515",
+    "platformAddress": "0x30A9AdEF8381DBCb50D1090F562292cCc9D20dd6"
+  },
+  {
+    "address": "0xa409Aa034233F118b1BfDc0cAc86988d564A349c",
+    "privateKey": "0x6f3660fcd7c4840dbb416fbdb1e7943091f3e2257a7bed3d94e94c09cf30c405",
+    "tokenAddress": "0xF8B7A14e7Cf6d7f02e161e7f545Cdd5ca646B41d",
+    "platformAddress": "0x11Fe119ca107E962BB2720A1150584e282c19C8A"
+  },
+  {
+    "address": "0x622Cd2872a148ad4bb8E649DC348b56F551B18B8",
+    "privateKey": "0x1156d65e438f986c30f2709d7fa4150af5929acec7626aa87b0f7820d6401a82",
+    "tokenAddress": "0xf3BD7b45c30ba4A2c4aDA056e22DA51bC4fdeF60",
+    "platformAddress": "0x191FEb6837E148ECc1bbE8936A9B371310dC4811"
+  },
+  {
+    "address": "0x1f7e8B0A89D6A898208e5763888aFD0EADd15676",
+    "privateKey": "0xd779af267a2ad64ece768f3ea606b4017dbb9d09f07614c7461d654c4560d570",
+    "tokenAddress": "0x17171811D9E3877F6325980A71255713a3B7E1D1",
+    "platformAddress": "0x9109A5A68f5e93116420488230157A7Ab8ff195B"
+  },
+  {
+    "address": "0xAe454A273fdfF97dac3f75B0508555928c1ee0e2",
+    "privateKey": "0xec9f29086ddf7ce41116b153d8e9ce3cfc1114054e5510f6c4b1f565b86b7f35",
+    "tokenAddress": "0x091Ad6cD958C4372bB1bcc42Ca084cD656e3ad80",
+    "platformAddress": "0x9320c624fC1Ef0B43e649f38028CB60FE28358a6"
+  },
+  {
+    "address": "0xFbF7E8E711A61F828F0C3Fc4dad718CC97000257",
+    "privateKey": "0x8a6d585c4cb9f8491ed865e0b3346e0667c70faaf2a5e275fa9b65cc93ece55a",
+    "tokenAddress": "0xeE05B316cB566f47BC4af67B8e78eF434e7F8a93",
+    "platformAddress": "0xD8daeCbBf2Af3Fc1739D99B4B4D24C4cfD54dcd8"
+  },
+  {
+    "address": "0x4C9D67735f71F9c9740F69a078A1D24021A95F41",
+    "privateKey": "0x44b32191dc62f8a30687671fbe5cc2492753d25c51096d0ce0a7d9db5b6230ea",
+    "tokenAddress": "0xC6c9Ab79fBd8A8288cA855F19EaA1B8F6f9158A5",
+    "platformAddress": "0x99081EE4DFD070c2C2029E496FBcbeEa71bE7019"
+  },
+  {
+    "address": "0x8F8e219a43DD305167C7DB6BB21b14C4D400B3dC",
+    "privateKey": "0xf97a87071eb618570f3762ca500f0788d7966a6b922d5282c5585906401cc59a",
+    "tokenAddress": "0xad50D76b98a7C887025d0fa349dcc32bbd713697",
+    "platformAddress": "0x66A8b50851FFD0d31488Cdf6D0f67ec306e8854b"
+  },
+  {
+    "address": "0xbe97eE13589E24862d6e75F1b45CF97eDCd974A4",
+    "privateKey": "0x913878f6a0c9327518c10d711dcb88a36a571479a5ca9746e984e4162edef468",
+    "tokenAddress": "0xeE0C59A449B2C7be94A244628938a768022f5f01",
+    "platformAddress": "0x71af694b61d5909E7439273cc5c09ba4744a3A81"
+  },
+  {
+    "address": "0x6Df670a2E0Fa1618D5a7E0697afE57F4eB21e529",
+    "privateKey": "0x00e34c9b88c146502fbd2a7f51fba344f665664513852bd6e8898ea758faab74",
+    "tokenAddress": "0xE5B49E3c42E0F7df0356259b8969b9ea6ABd4F0b",
+    "platformAddress": "0x5599B746eAB85488B97bA8BFa6753F657f9F84ac"
+  },
+  {
+    "address": "0x2C092330F554FcE831c9C2126b5C5761A8b5419C",
+    "privateKey": "0x44d4e605cb8a18e5206d32ea87d38ba97a367bb196a0d2586eabd47d91190d3e",
+    "tokenAddress": "0x3a2B60337800704754DA60F3aC55E3C7606a1E46",
+    "platformAddress": "0x50ae746e868056fB749529eEccAc5d1264713d0c"
+  },
+  {
+    "address": "0x6dB67388BB319ea591AB743B7F6Da67E7D01FA79",
+    "privateKey": "0x2a9ea7a626d4d54300e55bdf63c8beb6c9cd16f717ba0bb2f54eec6e7c5f9d8c",
+    "tokenAddress": "0x5cFC1da35A7cF9731988db95d40b57dB88a194be",
+    "platformAddress": "0xA61d33c7e448eA2da7EC8e44dc0e0b78b2394d11"
+  },
+  {
+    "address": "0x627311F2688b4363C7B82B879E175e0A1853b696",
+    "privateKey": "0x967b2b49d6f5d62f11b925d55050a3736aca9deddeb1abe13e5bb6640e7537c9",
+    "tokenAddress": "0x181f7200EC66d015584Acf051C3aE24906966163",
+    "platformAddress": "0x9f67FCE7b01fE94b5333f532FB1b2Ba33D98C6e9"
+  },
+  {
+    "address": "0x256e11231ff92f2123f35f842E09F586eca650f8",
+    "privateKey": "0xf572899e32d9d9657e9b73c6d2c8c5519b287102a09a5a407f1201e9d75a0f74",
+    "tokenAddress": "0xd424F612dBa39FbaBDF8e64Ca043c680bA7CD990",
+    "platformAddress": "0xc566956e4E2a95306FFF687E4314F9d2010B8161"
+  },
+  {
+    "address": "0x22227F1EdC6A3Cbcf59A211e19e25f4666444315",
+    "privateKey": "0xede7cafec1a4dbcaab3d9eb210e053667b186b98a000fa9d63b76da4ef1bd0b5",
+    "tokenAddress": "0xEEd517C4f1ad9F2C6813427eBf897489ebC29ab4",
+    "platformAddress": "0x9d5221e0bB27467e96cd971F6059CbEE28fDbB99"
+  },
+  {
+    "address": "0xbD0A3A3Ad52dD87cA108E03Dcbebe9C52584d90B",
+    "privateKey": "0xfee81150ec51dc252276fc96d5cf33329e77e926df7ae656c30942578370e044",
+    "tokenAddress": "0xb06dC003b1F4C0035067cF85f2620d299034f82C",
+    "platformAddress": "0x6e349685435654381A8871aBd4f9F6471c88Fd1E"
+  },
+  {
+    "address": "0x1cE5f6B4C0599446127249D9180C2713a5f2368D",
+    "privateKey": "0xe1baace5c7179e93c26f62b048f805855d84efd1ee8a31254573b196401bf97d",
+    "tokenAddress": "0x86DA4FC569307057481F1aCf3303B57aEd9a08B0",
+    "platformAddress": "0x4fc4055C15c7200C6BFD1aa725E7ACc967f39CCE"
+  }
+]
